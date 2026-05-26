@@ -47,10 +47,11 @@ A multi-threaded Java TCP server that handles simultaneous client connections, e
 ---
 
 ### 🚦 Smart Traffic Light Controller
-*Jan 2026 – May 2026 · UT Dallas — Digital Systems*
+*Jan 2026 – May 2026 · UT Dallas — Digital Systems Lab*
 
-A sequential smart traffic light controller for a two-road intersection built in Verilog. Features programmable timing registers, emergency vehicle override, pedestrian crossing support, night mode (blinking yellow), and fault detection logic. Implements multi-bit arithmetic and memory components.
+A sequential smart traffic light controller for a two-road intersection built in Verilog. Features programmable timing registers, emergency vehicle override, pedestrian crossing support, night mode (blinking yellow), rush hour mode, and fault detection logic. Implements multi-bit arithmetic and memory components.
 
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharonkopuri707/Smart-Traffic-Light-Controller)
 `Verilog` `FPGA Prototyping` `Sequential Circuit Design` `Logic Design` `VHDL`
 
 ---
@@ -83,22 +84,20 @@ A sequential smart traffic light controller for a two-road intersection built in
 | Computer Networks | Linear Algebra |
 | Data Structures & Algorithms | Discrete Mathematics |
 | Advanced Algorithm Design | Statistics & Probability |
-| Operating Systems | Advanced Calculus |
+| Operating Systems | Advanced Algebra |
 | Database Systems | Numerical Methods |
 | Digital Logic & Computer Design | Applied Mathematics |
-| Human Computer Interaction | Data Analysis |
+| Computer Graphics | Calculus I–III |
 
 ---
 
 ## 🏆 Honors & Awards
 
 🥉 **3rd Place** — Yonex Eastern Collegiate Team Badminton Championships, South Central Conference *(Nov 2025)*
-Competed representing UTD's team at the 2025 Yonex Eastern Collegiate Team Badminton Championships.
-
-🏅 **Microsoft Ambassador** — UT Dallas Office of Information Technology *(Dec 2025)*
 
 📜 **Phi Theta Kappa Honor Society** — Awarded for outstanding academic excellence and leadership *(Dec 2023)*
 
+🏅 **Microsoft Ambassador** — UT Dallas Office of Information Technology *(Dec 2025)*
 
 ---
 
@@ -119,7 +118,7 @@ Competed representing UTD's team at the 2025 Yonex Eastern Collegiate Team Badmi
 <div align="center">
 
 ### 💼 Open to Summer 2026 Internships in Software Engineering, AI/ML & Systems
-### 🌐 English (Professional)
+### 🌐 English (Professional) · Tamil (Native)
 
 *Let's build something great — reach out anytime!*
 

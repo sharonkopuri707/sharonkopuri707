@@ -83,10 +83,10 @@ A sequential smart traffic light controller for a two-road intersection built in
 | Computer Networks | Linear Algebra |
 | Data Structures & Algorithms | Discrete Mathematics |
 | Advanced Algorithm Design | Statistics & Probability |
-| Operating Systems | Advanced Algebra |
+| Operating Systems | Advanced Calculus |
 | Database Systems | Numerical Methods |
 | Digital Logic & Computer Design | Applied Mathematics |
-| Computer Graphics | Calculus I–III |
+| Human Computer Interaction | Data Analysis |
 
 ---
 
@@ -95,9 +95,10 @@ A sequential smart traffic light controller for a two-road intersection built in
 🥉 **3rd Place** — Yonex Eastern Collegiate Team Badminton Championships, South Central Conference *(Nov 2025)*
 Competed representing UTD's team at the 2025 Yonex Eastern Collegiate Team Badminton Championships.
 
+🏅 **Microsoft Ambassador** — UT Dallas Office of Information Technology *(Dec 2025)*
+
 📜 **Phi Theta Kappa Honor Society** — Awarded for outstanding academic excellence and leadership *(Dec 2023)*
 
-🏅 **Microsoft Ambassador** — UT Dallas Office of Information Technology *(Dec 2025)*
 
 ---
 
@@ -118,7 +119,7 @@ Competed representing UTD's team at the 2025 Yonex Eastern Collegiate Team Badmi
 <div align="center">
 
 ### 💼 Open to Summer 2026 Internships in Software Engineering, AI/ML & Systems
-### 🌐 English (Professional) · Tamil (Native)
+### 🌐 English (Professional)
 
 *Let's build something great — reach out anytime!*
 

@@ -118,7 +118,7 @@ A sequential smart traffic light controller for a two-road intersection built in
 <div align="center">
 
 ### 💼 Open to Summer 2026 Internships in Software Engineering, AI/ML & Systems
-### 🌐 English (Professional) · Tamil (Native)
+### 🌐 English (Professional)
 
 *Let's build something great — reach out anytime!*
 

@@ -36,6 +36,17 @@ I'm passionate about **software engineering, AI/ML, networking, and systems prog
 
 ## 🚀 Projects
 
+### 🤖 AI Document Q&A Chatbot
+*May 2026 · Personal Project*
+An AI-powered chatbot that lets users upload any PDF and ask natural language questions, returning context-aware answers using LLaMA 3.3 via Groq API. Built and deployed live using Python and Streamlit.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://sharonkopuri-docs.streamlit.app)
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharonkopuri707/ai-document-qa)
+
+`Python` `Groq API` `LLaMA 3.3` `Streamlit` `PyPDF` `LLM`
+
+---
+
 ### 🔌 TCP Multi-Client Math Server
 *Feb 2026 – May 2026 · UT Dallas — Computer Networks*
 

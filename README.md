@@ -36,6 +36,17 @@ I'm passionate about **software engineering, AI/ML, networking, and systems prog
 
 ## 🚀 Projects
 
+### 🧠 RAG Document Q&A
+*May 2026 · Personal Project*
+An advanced AI-powered document chatbot using **Retrieval Augmented Generation (RAG)** to answer questions from any PDF with high accuracy. Uses FAISS vector database for semantic search, Sentence Transformers for embeddings, and Groq LLM (LLaMA 3.3) for answer generation.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://sharonkopuri-rag.streamlit.app)
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharonkopuri707/rag-document-qa)
+
+`Python` `RAG` `FAISS` `Sentence Transformers` `Groq API` `LLaMA 3.3` `Streamlit` `LLM`
+
+---
+
 ### 🤖 AI Document Q&A Chatbot
 *May 2026 · Personal Project*
 An AI-powered chatbot that lets users upload any PDF and ask natural language questions, returning context-aware answers using LLaMA 3.3 via Groq API. Built and deployed live using Python and Streamlit.
